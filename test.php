@@ -10,4 +10,6 @@ echo test2;
 
  added from 2 - 1
 
+ added from 2 - 2 simul2
+
 ?>
