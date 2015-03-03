@@ -7,5 +7,6 @@ echo test2;
  echo 4;
 
  echo $temp1;
+ echo $t1;
 
 ?>
